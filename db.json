@@ -9,15 +9,17 @@
       "gndrDvcd": "M"
     }
   },
-   "getMyWater": {
+  "getMyWater": {
     "result": "succ",
     "message": "",
     "data": {
-      "cstmFnm": "정동현",
-      "mmbrWegVl": "75",
-      "mmbrMmtDvcd": "H",
-      "gndrDvcd": "F"
+      "intakeRecomm": "100",
+      "waterAvg": "100",
+      "gradePerTxt": "하위",
+      "gradePer": "27",
+      "gradeTxt": "운동량이 매우 매우 부족합니다.",
+      "gradeTxtSub": "본인 건강을 위해서라도 열심히 걸으세요.",
+      "grade": "46"
     }
   }
-
 }
