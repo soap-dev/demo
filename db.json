@@ -2,7 +2,7 @@
   "getHealthInfo": {
     "result": "succ",
     "message": "",
-    "today": {
+    "data": {
       "cstmFnm": "정동현",
       "mmbrWegVl": "75",
       "mmbrMmtDvcd": "H",
@@ -12,7 +12,7 @@
   "getMyWater": {
     "result": "succ",
     "message": "",
-    "data": {
+    "today": {
       "water_today" : "100",
       "intakeRecomm": "100",
       "waterAvg": "100",
