@@ -1,8 +1,1 @@
-{
-  "selectMemberHealth": {
-    "cstmFnm": "정동현",
-    "mmbrWegVl": "75",
-    "mmbrMmtDvcd": "H",
-    "gndrDvcd": true
-  }
-}
+{"selectMemberHealth":{"result":"succ","message":"","data":{"cstmFnm":"정동현","mmbrWegVl":"75","mmbrMmtDvcd":"H","gndrDvcd":"M"}}}
