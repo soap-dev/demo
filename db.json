@@ -1,1 +1,23 @@
-{"getHealthInfo":{"result":"succ","message":"","data":{"cstmFnm":"정동현","mmbrWegVl":"75","mmbrMmtDvcd":"H","gndrDvcd":"F"}}}
+{
+  "getHealthInfo": {
+    "result": "succ",
+    "message": "",
+    "data": {
+      "cstmFnm": "정동현",
+      "mmbrWegVl": "75",
+      "mmbrMmtDvcd": "H",
+      "gndrDvcd": "M"
+    }
+  },
+   "getMyWater": {
+    "result": "succ",
+    "message": "",
+    "data": {
+      "cstmFnm": "정동현",
+      "mmbrWegVl": "75",
+      "mmbrMmtDvcd": "H",
+      "gndrDvcd": "F"
+    }
+  }
+
+}
