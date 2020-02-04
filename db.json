@@ -2,7 +2,7 @@
   "getHealthInfo": {
     "result": "succ",
     "message": "",
-    "data": {
+    "today": {
       "cstmFnm": "정동현",
       "mmbrWegVl": "75",
       "mmbrMmtDvcd": "H",
