@@ -1,1 +1,1 @@
-{"selectMemberHealth":{"result":"succ","message":"","data":{"cstmFnm":"정동현","mmbrWegVl":"75","mmbrMmtDvcd":"H","gndrDvcd":"M"}}}
+{"getHealthInfo":{"result":"succ","message":"","data":{"cstmFnm":"정동현","mmbrWegVl":"75","mmbrMmtDvcd":"H","gndrDvcd":"M"}}}
