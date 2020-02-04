@@ -14,7 +14,6 @@
     "message": "",
     "data": {
       "today": {
-        "water_today": "100",
         "intakeRecomm": "100",
         "waterAvg": "100",
         "gradePerTxt": "하위",
