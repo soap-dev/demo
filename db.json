@@ -101,6 +101,7 @@
       "pushTypeNm": "콘텐츠",
       "isMissionFin": "Y",
       "isFeed": "Y",
+      "feed_y_txt" : "확인",
       "pushQuesCntt": "화가 났을때 과거를 들추는 편입니까?",
       "url": "https://daum.net",
       "pushBckgImgUrladr": "https://images-na.ssl-images-amazon.com/images/I/71n30fNj-9L._SX522_.jpg"
