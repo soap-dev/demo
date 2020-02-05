@@ -91,7 +91,7 @@
       ]
     }
   },
-  "messageDetail": {
+  "messagedetail": {
     "result": "succ",
     "message": "",
     "data": {
@@ -106,7 +106,7 @@
       "pushBckgImgUrladr": "https://images-na.ssl-images-amazon.com/images/I/71n30fNj-9L._SX522_.jpg"
     }
   },
-  "messageList": {
+  "messagebox": {
     "result": "succ",
     "message": "",
     "list": [
